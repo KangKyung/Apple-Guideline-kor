@@ -5,6 +5,6 @@
 
 ## 진행상황
 - [x] Fundamentals
-- [] Naming
-- [] Conventions
-- [] Special Instructions
+- [ ] Naming
+- [ ] Conventions
+- [ ] Special Instructions
