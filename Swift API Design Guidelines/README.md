@@ -5,7 +5,7 @@
   k2h0508@gmail.com
 
 ## 진행상황
-- [x] [Fundamentals](https://github.com/KangKyung/Apple-Guideline-kor/blob/main/Fundamentals.md)
-- [x] [Naming](https://github.com/KangKyung/Apple-Guideline-kor/blob/main/Naming.md)
-- [ ] [Conventions](https://github.com/KangKyung/Apple-Guideline-kor/blob/main/Conventions.md)
-- [ ] [Special Instructions](https://github.com/KangKyung/Apple-Guideline-kor/blob/main/Special%20Instructions.md)
+- [x] [Fundamentals](https://github.com/KangKyung/Apple-Guideline-kor/blob/main/Swift%20API%20Design%20Guidelines/Fundamentals.md)
+- [x] [Naming](https://github.com/KangKyung/Apple-Guideline-kor/blob/main/Swift%20API%20Design%20Guidelines/Naming.md)
+- [ ] [Conventions](https://github.com/KangKyung/Apple-Guideline-kor/blob/main/Swift%20API%20Design%20Guidelines/Conventions.md)
+- [ ] [Special Instructions](https://github.com/KangKyung/Apple-Guideline-kor/blob/main/Swift%20API%20Design%20Guidelines/Special%20Instructions.md)
