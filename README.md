@@ -5,6 +5,6 @@
   k2h0508@gmail.com
 
 ## 진행 상황
-- [ ] [Swift API Design Guidelines](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/API%20Design%20Guidelines) / 진행 중
-- [ ] [Swift language Guide](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/Swift%20language%20Guide) / 진행 예정
-- [ ] [Human Interface Guidelines](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/Human%20Interface%20Guidelines) / 진행 예정
+- [ ] (진행 중) [Swift API Design Guidelines](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/API%20Design%20Guidelines)
+- [ ] (진행 예정) [Swift language Guide](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/Swift%20language%20Guide)
+- [ ] (진행 예정) [Human Interface Guidelines](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/Human%20Interface%20Guidelines)
