@@ -4,7 +4,7 @@
 * 오역 및 미숙한 부분에 대한 피드백은 언제나 환영입니다 🖐🏼
   k2h0508@gmail.com
 
-## 진행상황
-- [ ] [Swift API Design Guidelines](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/API%20Design%20Guidelines) / [원문](https://swift.org/documentation/api-design-guidelines/)
-- [ ] [Swift language Guide](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/Swift%20language%20Guide) / [원문](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-- [ ] [Human Interface Guidelines](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/Human%20Interface%20Guidelines) / [원문](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+## 진행 상황
+- [ ] [Swift API Design Guidelines](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/API%20Design%20Guidelines) / 진행 중
+- [ ] [Swift language Guide](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/Swift%20language%20Guide) / 진행 예정
+- [ ] [Human Interface Guidelines](https://github.com/KangKyung/Apple-Guideline-kor/tree/main/Human%20Interface%20Guidelines) / 진행 예정
